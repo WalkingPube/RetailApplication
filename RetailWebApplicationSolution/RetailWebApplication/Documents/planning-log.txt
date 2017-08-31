@@ -1,0 +1,5 @@
+﻿Retail Web Application: Planning / Log
+
+30/8/17
+Project Created and beginning planning. 
+The goal of this application is to manage the 

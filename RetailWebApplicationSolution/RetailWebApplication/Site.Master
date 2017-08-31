@@ -63,7 +63,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+                <p>Ryan Brown &copy; <%: DateTime.Now.Year %> - Retail Web Application</p>
             </footer>
         </div>
 
